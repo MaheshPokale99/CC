@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Mahesh Pokale",
+        "email": "mahesh.pokale@gamil.com"
+    },
+    {
+        "id": 2,
+        "name": "Dhiraj Patil",
+        "email": "dhiraj.patil@gamil.com"
+    },
+    {
+        "id": 3,
+        "name": "Aryan Jadhv",
+        "email": "aryan.jadhv@gamil.com"
+    }
+]
